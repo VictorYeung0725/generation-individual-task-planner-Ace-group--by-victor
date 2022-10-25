@@ -1,9 +1,9 @@
 // Requirement
 // Task Planner DOM project
-// 1.insert an image in a random position (initiate 5 random places, randomly insert when click button)
-// 2.Insert a youtube video
-// 3.Change / remove content of a header text
-// 4.change the src of the image
+// insert an image in a random position (initiate 5 random places, randomly insert when click button)
+// Insert a youtube video
+// Change / remove content of a header text
+// change the src of the image
 
 const projectBtn = document.querySelector('#project');
 const taskContainer = document.querySelectorAll('.task-container');
